@@ -1,8 +1,9 @@
-### Hi there 👋
+### Hello there!
+
+I'm currently a student at 42 Québec, and thus you can find many of my school projects here as repo (although currently they arenÈt exactly meant to be seen or used by non-students, so sorry if the presentation isn't exactly the best...). I also have a few repos for personal projects (the biggest of which is currently Clonecraft). I'm currently focused on learning C++ and C#, and I'm pretty good with C all things considered.
+
 
 <!--
-**loyc12/loyc12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
