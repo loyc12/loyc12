@@ -1,7 +1,8 @@
 ### Hello there!
 
-I'm currently a student at 42 Québec, and thus you can find many of my school projects here as repo (although currently they arenÈt exactly meant to be seen or used by non-students, so sorry if the presentation isn't exactly the best...). I also have a few repos for personal projects (the biggest of which is currently Clonecraft). I'm currently focused on learning C++ and C#, and I'm pretty good with C all things considered.
+I'm currently a student at 42 Québec, and thus you can find many of my school projects here as repos (although currently they aren't exactly meant to be seen or used by non-students, so sorry if the presentation isn't exactly the best...). I also have a few repos for personal projects (the biggest of which is currently Clonecraft). I'm currently focused on learning C++ and C#, and I consider myself well versed C, all things considered.
 
+I'll also be looking for an intership in the near future (winter 2023-2024), if possible in the video game industry.
 
 <!--
 Here are some ideas to get you started:
