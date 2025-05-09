@@ -1,8 +1,10 @@
 ### Hello there!
 
-I'm currently a student at 42 Québec, and thus you can find many of my school projects here as repos (although currently they aren't exactly meant to be seen or used by non-students, so sorry if the presentation isn't exactly the best...). I also have a few perssonal projectsm but nothing major, as I'm focusing on school right now.
+I'm alumni of 42 Québec, and you can find most of my personal projects here, including multiple game engine attemps.
 
-Btw, I'm currently looking for employmennt or an internship, in case you have any opportunities for me.
+You can also find many of my school projects here as repos ( although currently they aren't exactly meant to be seen or used by non-students, so sorry in advance if the presentation isn't exactly the best... ).
+
+Btw, I'm currently looking for employment, in case you have any opportunities for me.
 
 <!--
 Here are some ideas to get you started:
