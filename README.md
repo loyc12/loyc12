@@ -1,10 +1,11 @@
 ### Hello there!
 
-I'm alumni of 42 Québec, and you can find most of my personal projects here, including multiple game engine attemps.
+I'm an alumni of 42 Québec, and you can find most of my personal projects here, including, among other things, game engine, ternary assembler opcodes, language design ideas, and other miscellaneous tools and scripts.
 
-You can also find many of my school projects here as repos ( although currently they aren't exactly meant to be seen or used by non-students, so sorry in advance if the presentation isn't exactly the best... ).
+You can also find many of my school projects here as repos ( although they aren't exactly meant to be seen or used by non-students, so sorry in advance if the presentation isn't exactly the best... ).
 
-Btw, I'm currently looking for employment, in case you have any opportunities for me.
+Btw, I'm currently looking for employment in the tech sector, in case you somehow enjoy what I have on offer out here !
+
 
 <!--
 Here are some ideas to get you started:
