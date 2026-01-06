@@ -2,7 +2,7 @@
 
 I'm an alumni of 42 Québec, and you can find most of my personal projects here, including, among other things, games, a game zig game engine, a set of homebrewed ternary assembly opcodes, a random attempt at making my own language, loads of school projects, and a bunch of other miscellaneous tools and scripts.
 
-I apologize in advance for the messyness of my repos, as they weren't exactly meant to be seen or used by other people, and as such their presentation isn't very polished.
+I apologize in advance for the messiness of my repos, as they weren't exactly meant to be seen or used by other people, and as such their presentation isn't very polished.
 
 Btw, I'm currently looking for employment in the tech sector, in case you somehow enjoy what I have on display here !
 
